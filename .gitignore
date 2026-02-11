@@ -1,3 +1,6 @@
+# .gitignore for showing
+.gitignore
+
 # Prerequisites
 *.d
 
@@ -30,3 +33,5 @@
 *.exe
 *.out
 *.app
+
+1. BS Bachelor\7. Computer Organization & Assembly Language ( CSC-211)
