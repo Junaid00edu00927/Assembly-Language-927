@@ -1,5 +1,6 @@
 # .gitignore for showing
 .gitignore
+gitignore
 # Prerequisites
 *.d
 
